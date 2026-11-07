@@ -17,7 +17,9 @@ Capa 2: capa de enlace de datos
 los datos lleguen de punto a a punto b dentro de esa misma red lan (switches) 
 
 Capa3: capa de red
-la capa de enrutamiento el trabajo del router su trabajo es mirar la direccion ip de destino de un paquete 
+la capa de enrutamiento el trabajo del router es mirar la direccion ip de destino de un paquete 
+
+Capa4: capa de 
 
 
 ## Comandos / herramientas
