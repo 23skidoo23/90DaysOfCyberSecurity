@@ -14,7 +14,10 @@ Capa 1: capa fisica
 el como se obtienen señales de forma fisica como por ejemplo los cables 
 
 Capa 2: capa de enlace de datos
-esta capa  que se utiliza para comunicar 2 dispositivos en la red 
+los datos lleguen de punto a a punto b dentro de esa misma red lan (switches) 
+
+Capa3: capa de red
+la capa de 
 
 
 ## Comandos / herramientas
