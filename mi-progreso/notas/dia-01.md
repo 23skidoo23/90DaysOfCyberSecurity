@@ -1,2 +1,17 @@
+# Día 01 - Modelo OSI
 
-Prueba de sincronizacion desde windows
+**Fecha:**
+**Bloque:**
+
+## Qué estudié
+
+## Conceptos clave (con mis palabras)
+
+## Comandos / herramientas
+
+## Práctica (laboratorio)
+
+## Dudas pendientes
+
+## Relacionado
+- [[progreso]]
